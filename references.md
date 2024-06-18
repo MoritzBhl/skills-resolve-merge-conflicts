@@ -1,2 +1,5 @@
-<h1>References</h1>
-Some text to create a conflict.
+
+# References
+
+* octocat 1 😈
+
